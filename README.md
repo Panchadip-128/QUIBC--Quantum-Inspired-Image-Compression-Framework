@@ -271,22 +271,16 @@ If you use QUIBC in your research, please cite our paper:
 }
 ```
 
-## Authors
+## Main Contributors:
 
-- **Jonath Jimmi** - Manipal Institute of Technology Bengaluru  
-  📧 jonath.mitblr2024@learner.manipal.edu
+- **Panchadip Bhattacharjee** - Manipal Institute of Technology Bengaluru  
+  📧 panchadip.mitblr2023@learner.manipal.edu
 
 - **Somyajeet Arukh** - Manipal Institute of Technology Bengaluru  
   📧 somyajeet.mitblr2023@learner.manipal.edu
 
 - **Arya Abnish Singh** - Manipal Institute of Technology Bengaluru  
   📧 arya.mitblr2024@learner.manipal.edu
-
-- **Panchadip Bhattacharjee** - Manipal Institute of Technology Bengaluru  
-  📧 panchadip.mitblr2023@learner.manipal.edu
-
-- **Gururaj H L** - Manipal Institute of Technology Bengaluru  
-  📧 gururaj.hl@manipal.edu
 
 ## License
 
@@ -349,13 +343,6 @@ For questions, collaborations, or issues:
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/QUIBC/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/Panchadip-128/QUIBC/discussions)
 
-## Star History
-
-If you find this project useful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/QUIBC&type=Date)](https://star-history.com/#yourusername/QUIBC&Date)
-
----
 
 **Keywords**: Quantum ML, Image Compression, Edge AI, IoT, Rate-Distortion, Binarization, Unitary Transformations, Deep Learning, Resource-Constrained Devices, Explainable AI
 
