@@ -280,13 +280,16 @@ See `notebooks/xai_analysis.ipynb` for interactive visualisations.
 If you use QUIBC in your research, please cite:
 
 ```bibtex
-@inproceedings{jimmi2025quibc,
-  title     = {QUIBC: A Quantum-Inspired Image Binarization Compressor for Resource-Constrained Edge Devices},
-  author    = {Jimmi, Jonath and Arukh, Somyajeet and Singh, Arya Abnish and Bhattacharjee, Panchadip and H L, Gururaj},
-  booktitle = {IEEE INDICON 2025},
-  year      = {2025},
-  organization = {IEEE}
-}
+@INPROCEEDINGS{11392962,
+  author={Bhattacharjee, Panchadip and Arukh, Somyajeet and Singh, Arya Abnish and Jimmi, Jonath and L, Gururaj H},
+  booktitle={2025 IEEE 22nd India Council International Conference (INDICON)}, 
+  title={QUIBC: A Quantum-Inspired Image Binarization Compressor for Resource-Constrained Edge Device}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Training;Image coding;Quantum computing;Three-dimensional displays;Image edge detection;Transform coding;Rate-distortion;Stability analysis;Satellite images;Videos;Quantum ML;Image Compression;Binarization;Rate-Distortion;Edge Devices},
+  doi={10.1109/INDICON68490.2025.11392962}}
 ```
 
 ## Main Contributors
