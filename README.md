@@ -297,7 +297,7 @@ If you use QUIBC in your research, please cite:
 | **Somyajeet Arukh** | MIT Bengaluru, MAHE | somyajeet.mitblr2023@learner.manipal.edu |
 | **Arya Abnish Singh** | MIT Bengaluru, MAHE | arya.mitblr2024@learner.manipal.edu |
 | **Jonath Jimmi** | MIT Bengaluru, MAHE | jonath.mitblr2024@learner.manipal.edu |
-| **Gururaj H L** (Supervisor) | MIT Bengaluru, MAHE | gururaj.hl@manipal.edu |
+| **Dr. Gururaj H L** (Supervisor) | MIT Bengaluru, MAHE | gururaj.hl@manipal.edu |
 
 ## License
 
