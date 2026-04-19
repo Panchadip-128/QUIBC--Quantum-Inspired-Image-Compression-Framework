@@ -1,0 +1,36 @@
+# configs/train_config.yaml
+# QUIBC Training Configuration
+# All values match the paper's reported hyperparameters.
+
+model:
+  img_size: 256          # Input spatial resolution (square)
+  latent_ch: 96          # Latent channels (controls bpp)
+  lambda_init: 0.001     # Initial rate-distortion multiplier λ
+
+training:
+  epochs: 38
+  batch_size: 16
+  seed: 42
+
+optimizer:
+  type: Adam
+  learning_rate: 0.0001
+  beta_1: 0.9
+  beta_2: 0.999
+  lr_decay_rate: 0.96
+  lr_decay_steps: 1000
+
+dataset:
+  name: clic                # TensorFlow Datasets name
+  iot_augment: true         # Apply noise+blur to training images
+  cache: true               # Cache dataset in RAM after first epoch
+  shuffle_buffer: 2048
+
+callbacks:
+  checkpoint_dir: checkpoints
+  early_stopping_patience: 8
+  monitor_metric: val_psnr
+
+logging:
+  tensorboard: true
+  log_dir: checkpoints/logs
